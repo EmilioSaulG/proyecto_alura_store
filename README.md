@@ -94,4 +94,6 @@ Por lo anterior, se recomienda que el Sr. Juan venda la Tienda 4, ya que es la t
 
 ##  Nota
 
-Proyecto desarrollado con fines académi
+Proyecto desarrollado con fines académicos.
+
+
